@@ -1,5 +1,5 @@
-# laravel-vue
-A basic relational company and product management system for user wich powered by vue.js
+# Laravel Vue
+A basic relational company and product management system which powered by vue.js and secured api with Laravel/passport for user
 
 # Install and configure
 
