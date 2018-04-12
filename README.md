@@ -9,3 +9,6 @@ A basic relational company and product management system which powered by vue.js
 4 - Run php artisan key:generate <br>
 5 - Run php artisan migrate --seed <br>
 6 - Run php artisan passport:install
+
+E-mail: admin@admin.com
+Password: 654321
